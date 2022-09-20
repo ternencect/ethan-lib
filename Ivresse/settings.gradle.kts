@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Ivresse"
 include (":app")
+include(":core:database")
